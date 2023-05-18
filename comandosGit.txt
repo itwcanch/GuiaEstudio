@@ -1,0 +1,8 @@
+git config --global user.name USER
+git config --global user.email TUEMAIL
+git config --list
+git config user.name
+git config user.email
+git init 
+git config --global init.defaultBranch master
+Nuevos Comandos
