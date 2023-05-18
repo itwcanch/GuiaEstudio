@@ -6,3 +6,4 @@ git config user.email
 git init 
 git config --global init.defaultBranch master
 Nuevos Comandos
+git clone git@github.com:itwcanch/GuiaEstudio.git
